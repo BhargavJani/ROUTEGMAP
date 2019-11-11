@@ -186,7 +186,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         // Building the url to the web service
 
 
-        return "https://maps.googleapis.com/maps/api/directions/$output?$parameters&key=AIzaSyDSudsmknGATqrkg9IjJQOFk2QqkSII6qs"
+        return "https://maps.googleapis.com/maps/api/directions/$output?$parameters&key=PUT_YOUR_KEY_HEAR"
     }
 
     @Throws(IOException::class)
